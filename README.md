@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rez106
+- 👀 I’m interested in Web Development, Soccer, Basketball
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me t.me/Rez106
